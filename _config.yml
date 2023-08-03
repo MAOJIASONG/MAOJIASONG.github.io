@@ -16,19 +16,19 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+bing_site_verification   :  B702AD6D88F955ED06FE914D5B604595 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "Lorem ipsum"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Singapore University of Technology and Design (SUTD)"
+  bio              : "DeClaRe Lab @SUTD"  # Describe your org
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=J1cg8fIAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "smj812855@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "MAOJIASONG" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -54,7 +54,7 @@ author:
   twitter          :
   vine             :
   weibo            :
-  xing             : 'baidu.com'
+  xing             :
   youtube          :
   wikipedia        :
 
