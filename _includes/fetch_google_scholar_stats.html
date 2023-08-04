@@ -8,7 +8,10 @@
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitation = data['citedby']
             document.getElementById('total_cit').innerHTML = totalCitation;
-            var interests = data['interests'][1]
+            var interests = ''
+            for (var i=0; i<data['interests'].length; i++) {
+                interests += data['interests'][i]
+            }
             document.getElementById('interests').innerHTML = interests;
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
