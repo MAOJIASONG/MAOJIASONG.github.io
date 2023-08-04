@@ -8,11 +8,11 @@
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitation = data['citedby']
             document.getElementById('total_cit').innerHTML = totalCitation;
-            var interests = ''
-            for (var i=0; i<data['interests'].length; i++) {
+            var interests = 'ss'
+            for (var i=0; i<3; i++) {
                 interests += data['interests'][i]
             }
-            document.getElementById('interests').innerHTML = data['interests'].length;
+            document.getElementById('interests').innerHTML = interests;
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
