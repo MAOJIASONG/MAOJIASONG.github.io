@@ -9,7 +9,7 @@
             var totalCitation = data['citedby']
             document.getElementById('total_cit').innerHTML = totalCitation;
             var interests = data['interests']
-            document.getElementById('interests').innerHTML = interests;
+            document.getElementById('interests').innerHTML = interests[0];
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
