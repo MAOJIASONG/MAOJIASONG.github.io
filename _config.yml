@@ -12,7 +12,7 @@ repository               : "MAOJIASONG/MAOJIASONG.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : G-S19XGL9F9E # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "DeClaRe Lab @SUTD"  # Describe your org
   location         : "Singapore"
-  employer         : "SUTD"
+  employer         : # e.g., Bytedance AI Lab
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=J1cg8fIAAAAJ"
   email            : "smj812855@163.com"
