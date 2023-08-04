@@ -12,7 +12,7 @@
             for (var i=0; i<data['interests'].length; i++) {
                 interests += data['interests'][i]
             }
-            document.getElementById('interests').innerHTML = interests;
+            document.getElementById('interests').innerHTML = data['interests'].length;
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
