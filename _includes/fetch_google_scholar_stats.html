@@ -8,17 +8,19 @@
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitation = data['citedby']
             document.getElementById('total_cit').innerHTML = totalCitation;
+            var interests = data['interests']
+            document.getElementById('interests').innerHTML = interests;
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
                 var numCitations = data['publications'][paperId]['num_citations']
                 element.innerHTML = '| Citations: ' + numCitations;
             });
-            var pub_year = document.getElementsByClassName('show_pub_year')
-            Array.prototype.forEach.call(pub_year, element => {
+            var yearEles = document.getElementsByClassName('show_paper_year')
+            Array.prototype.forEach.call(yearEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['bib']['pub_year']
-                element.innerHTML = '| Year: ' + numCitations;
+                var pub_year = data['publications'][paperId]['bib']['pub_year']
+                element.innerHTML = '| Year: ' + pub_year;
             });
         });
     })
