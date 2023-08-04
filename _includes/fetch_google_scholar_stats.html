@@ -14,6 +14,12 @@
                 var numCitations = data['publications'][paperId]['num_citations']
                 element.innerHTML = '| Citations: ' + numCitations;
             });
+            var pub_year = document.getElementsByClassName('show_pub_year')
+            Array.prototype.forEach.call(pub_year, element => {
+                var paperId = element.getAttribute('data')
+                var numCitations = data['publications'][paperId]['bib']['pub_year']
+                element.innerHTML = '| Year: ' + numCitations;
+            });
         });
     })
 </script>
