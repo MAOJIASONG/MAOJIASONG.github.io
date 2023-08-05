@@ -43,10 +43,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 This is a test for tags:  
 1. Here is my interests: <strong><span id='my_interests'><!-- autoupdate --></span></strong>.
-2. First paper: <strong><a class='paper_title' href='' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></a></strong>
-3. Authors: <span class='paper_author' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-4. Conference: <span class='paper_conference' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-5. Details: <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong>
+2. First paper: <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></a></strong>.
+3. Authors: <span class='paper_author' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span>.
+4. Conference: <span class='paper_conference' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span>.
+5. Details: <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong>.
 
 
 # 🔥 News
