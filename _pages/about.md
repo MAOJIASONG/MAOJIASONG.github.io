@@ -37,7 +37,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <!-- self introduction -->
-Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/)   
+Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/) and focus on [undefined]. ***Want academic cooperation?*** Feel free to contact me at [unknown](mailto:smj812855@163.com)
 
 I am curious about the construction of self-sustained AI agents, which requires many prevailing technologies, including Large language models, Human-in-the-loop, the world model, and even adaptive intelligence. The idea can be simply explained: self-sustaining AI should learn by himself from the environment constantly and is able to rebuild other related constitutes from the provided abstract representations of the same identity. It forces self-sustained AI to adaptively face the world, rather than only finding a one-fits-all solution. The foundation of its external performance should rely on the understanding of abstract representations to transform the real world into a digital world. Based on the previous development, the agents of an applicable system can thereby help this basic self-sustained AI to achieve embodied interaction with humans.
 
