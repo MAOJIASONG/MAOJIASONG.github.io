@@ -61,7 +61,7 @@
             var yearEles = document.getElementsByClassName('show_paper_year')
             Array.prototype.forEach.call(yearEles, element => {
                 var paperId = element.getAttribute('data')
-                var pub_year = data['publications'][paperId]['bib']['pub_year'].toString()
+                var pub_year = data['publications'][paperId]['bib']['pub_year']
                 element.innerHTML = '| Year: ' + pub_year;
             });
         });
