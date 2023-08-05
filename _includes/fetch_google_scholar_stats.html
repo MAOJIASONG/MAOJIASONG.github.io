@@ -36,10 +36,10 @@
 
             // interests
             var interests = ''
-            for (var i=0; i<3; i++) {
-                interests += data['interests'][i]
+            for (var i=0; i<data['interests'].length; i++) {
+                interests += data['interests'][i] + ', '
             }
-            document.getElementById('interests').innerHTML = data['interests'].length
+            document.getElementById('interests').innerHTML = interests
             document.getElementById('interests').href="https://www.runoob.com";
 
             // scholar_url
