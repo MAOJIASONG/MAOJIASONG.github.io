@@ -35,33 +35,33 @@
             // document.getElementsByClassName('cites_per_year').innerHTML = cites_per_year;
 
             //interests
-            var my_interests = ''
+            var my_interests = '';
             for (var i=0; i<data['interests'].length; i++) {
                 my_interests += data['interests'][i] + ', '
-                
+
             }
-            document.getElementsByClassName('my_interests').innerHTML = my_interests
+            document.getElementsByClassName('my_interests').innerHTML = my_interests;
 
             // scholar_url
-            var scholar_url = document.getElementsByClassName('scholar_url')
+            var scholar_url = document.getElementsByClassName('scholar_url');
             Array.prototype.forEach.call(scholar_url, element => {
-                var scholar_id = data['scholar_id']
+                var scholar_id = data['scholar_id'];
                 element.href = "https://scholar.google.com/citations?user=" + scholar_id;
             });
 
             // publication
-            var citationEles = document.getElementsByClassName('show_paper_citations')
+            var citationEles = document.getElementsByClassName('show_paper_citations');
             Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
+                var paperId = element.getAttribute('data');
+                var numCitations = data['publications'][paperId]['num_citations'];
                 element.innerHTML = '| Citations: ' + numCitations;
             });
 
 
-            var yearEles = document.getElementsByClassName('show_paper_year')
+            var yearEles = document.getElementsByClassName('show_paper_year');
             Array.prototype.forEach.call(yearEles, element => {
-                var paperId = element.getAttribute('data')
-                var pub_year = data['publications'][paperId]['bib']['pub_year']
+                var paperId = element.getAttribute('data');
+                var pub_year = data['publications'][paperId]['bib']['pub_year'];
                 element.innerHTML = '| Year: ' + pub_year;
             });
         });
