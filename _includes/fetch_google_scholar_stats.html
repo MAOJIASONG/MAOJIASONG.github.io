@@ -8,39 +8,42 @@
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             // total citations
             // var totalCitation = data['citedby']
-            // document.getElementsByClassName('total_cit').innerHTML = totalCitation;
+            // document.getElementById('total_cit').innerHTML = totalCitation;
 
             // // recent 5years citations
             // var fiveyearCitation = data['citedby5y']
-            // document.getElementsByClassName('5y_cit').innerHTML = fiveyearCitation;
+            // document.getElementById('5y_cit').innerHTML = fiveyearCitation;
 
             // // hindex
             // var hindex = data['hindex']
-            // document.getElementsByClassName('hindex').innerHTML = hindex;
+            // document.getElementById('hindex').innerHTML = hindex;
 
             // // recent 5years citations hindex
             // var hindex5y = data['hindex5y']
-            // document.getElementsByClassName('5y_hindex').innerHTML = hindex5y;
+            // document.getElementById('5y_hindex').innerHTML = hindex5y;
 
             // // i10index
             // var i10index = data['i10index']
-            // document.getElementsByClassName('i10index').innerHTML = i10index;
+            // document.getElementById('i10index').innerHTML = i10index;
 
             // // recent 5years citations i10index
             // var i10index5y = data['i10index5y']
-            // document.getElementsByClassName('5y_i10index').innerHTML = i10index5y;
+            // document.getElementById('5y_i10index').innerHTML = i10index5y;
 
             // // cites_per_year
             // var cites_per_year = data['cites_per_year']
-            // document.getElementsByClassName('cites_per_year').innerHTML = cites_per_year;
+            // document.getElementById('cites_per_year').innerHTML = cites_per_year;
 
             //interests
             var my_interests = '';
             for (var i=0; i<data['interests'].length; i++) {
-                my_interests += data['interests'][i] + ', '
-
+                if (i==data['interests'].length-1) {
+                    my_interests += data['interests'][i] + ',';
+                } else {
+                    my_interests += data['interests'][i] + ', ';
+                }
             }
-            document.getElementsByClassName('my_interests').innerHTML = my_interests;
+            document.getElementById('my_interests').innerHTML = my_interests;
 
             // scholar_url
             var scholar_url = document.getElementsByClassName('scholar_url');
