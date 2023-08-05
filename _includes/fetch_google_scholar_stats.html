@@ -65,24 +65,24 @@
                 element.href = 'https://scholar.google.com/citations?view_op=view_citation&citation_for_view=' + paperId; 
             });
 
-            // publication author
-            var authorEles = document.getElementsByClassName('paper_author');
-            Array.prototype.forEach.call(authorEles, element => {
-                var paperId = element.getAttribute('data');
-                var author = data['publications'][paperId]['bib']['author'].replace(/ and/gi, ","); // global, case-insensitive
-                // highlight author
-                var RegExp = /(Song )?Maojia( Song)?/gi;
-                author = author.replace(RegExp, '<strong>Maojia Song</strong>')
-                element.innerHTML = author;
-            });
+            // // publication author
+            // var authorEles = document.getElementsByClassName('paper_author');
+            // Array.prototype.forEach.call(authorEles, element => {
+            //     var paperId = element.getAttribute('data');
+            //     var author = data['publications'][paperId]['bib']['author'].replace(/ and/gi, ","); // global, case-insensitive
+            //     // highlight author
+            //     var RegExp = /(Song )?Maojia( Song)?/gi;
+            //     author = author.replace(RegExp, '<strong>Maojia Song</strong>')
+            //     element.innerHTML = author;
+            // });
 
-            // publication conference
-            var conferenceEles = document.getElementsByClassName('paper_conference');
-            Array.prototype.forEach.call(conferenceEles, element => {
-                var paperId = element.getAttribute('data');
-                var conference = data['publications'][paperId]['bib']['conference'];
-                element.innerHTML = conference;
-            });
+            // // publication conference
+            // var conferenceEles = document.getElementsByClassName('paper_conference');
+            // Array.prototype.forEach.call(conferenceEles, element => {
+            //     var paperId = element.getAttribute('data');
+            //     var conference = data['publications'][paperId]['bib']['conference'];
+            //     element.innerHTML = conference;
+            // });
 
             // publication year
             var yearEles = document.getElementsByClassName('paper_year');
