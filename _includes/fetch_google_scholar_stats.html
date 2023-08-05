@@ -6,20 +6,58 @@
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            // var totalCitation = data['citedby']
-            // document.getElementById('total_cit').innerHTML = totalCitation;
-            var interests = 'ss'
+            // total citations
+            var totalCitation = data['citedby']
+            document.getElementById('total_cit').innerHTML = totalCitation;
+
+            // // recent 5years citations
+            // var fiveyearCitation = data['citedby5y']
+            // document.getElementById('5y_cit').innerHTML = fiveyearCitation;
+
+            // // hindex
+            // var hindex = data['hindex']
+            // document.getElementById('hindex').innerHTML = hindex;
+
+            // // recent 5years citations hindex
+            // var hindex5y = data['hindex5y']
+            // document.getElementById('5y_hindex').innerHTML = hindex5y;
+
+            // // i10index
+            // var i10index = data['i10index']
+            // document.getElementById('i10index').innerHTML = i10index;
+
+            // // recent 5years citations i10index
+            // var i10index5y = data['i10index5y']
+            // document.getElementById('5y_i10index').innerHTML = i10index5y;
+
+            // // cites_per_year
+            // var cites_per_year = data['cites_per_year']
+            // document.getElementById('cites_per_year').innerHTML = cites_per_year;
+
+            // interests
+            var interests = ''
             for (var i=0; i<3; i++) {
                 interests += data['interests'][i]
             }
-            document.getElementById('interests').innerHTML = data['interests']
+            document.getElementById('interests').innerHTML = data['interests'].length
             document.getElementById('interests').href="https://www.runoob.com";
+
+            // scholar_url
+            var scholar_url = document.getElementsByClassName('scholar_url')
+            Array.prototype.forEach.call(scholar_url, element => {
+                var scholar_id = data['scholar_id']
+                element.href = "https://scholar.google.com/citations?user=" + scholar_id;
+            });
+
+            // publication
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
                 var numCitations = data['publications'][paperId]['num_citations']
                 element.innerHTML = '| Citations: ' + numCitations;
             });
+
+
             var yearEles = document.getElementsByClassName('show_paper_year')
             Array.prototype.forEach.call(yearEles, element => {
                 var paperId = element.getAttribute('data')
