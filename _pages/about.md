@@ -79,6 +79,7 @@ I am curious about the construction of self-sustained AI agents, which requires 
 <!-- News -->
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+*2023.08*: &nbsp;🎉 I join [DeClaRe Lab](https://declare-lab.net/) <img src='../images/rec-light.png' style="width: 5em;"> as a NLP researcher!
 
 
 
@@ -132,10 +133,10 @@ I am curious about the construction of self-sustained AI agents, which requires 
 
 <!-- honers -->
 # 🎖 Honors and Awards
-- *2022.02* The 17th “Challenge Cup” National College Students Extracurricular Academic Science and Technology Works Competition – “Black Technology” Challenge First Prize (Top 1%).
-- *2021.06* U.S.-China Young Maker Contest – Winner of the U.S.-China Cooperation (Exclusive). 
-- *2021.06* U.S.-China Young Maker Contest – Second National Prize (Top 5). 
-- *2021.05* The 11th National College E-Commerce "Innovation, Creativity and Entrepreneurship" Challenge – First Provincial Prize (Top 10%).
+- *2022.02*: The 17th “Challenge Cup” National College Students Extracurricular Academic Science and Technology Works Competition – “Black Technology” Challenge First Prize (Top 1%).
+- *2021.06*: U.S.-China Young Maker Contest – Winner of the U.S.-China Cooperation (Exclusive). 
+- *2021.06*: U.S.-China Young Maker Contest – Second National Prize (Top 5). 
+- *2021.05*: The 11th National College E-Commerce "Innovation, Creativity and Entrepreneurship" Challenge – First Provincial Prize (Top 10%).
 - `ACL 2023` test.
 
 

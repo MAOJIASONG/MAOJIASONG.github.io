@@ -9,7 +9,7 @@
 title                    : "Maojia Song's Homepage"
 description              : "NLP Researcher. Enthusiastic about NLP, LLM, and Adaptive Intelligence."
 repository               : "MAOJIASONG/MAOJIASONG.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : G-S19XGL9F9E # get google_analytics_id from https://analytics.google.com/analytics/
