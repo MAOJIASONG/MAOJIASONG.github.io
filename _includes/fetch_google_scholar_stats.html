@@ -70,9 +70,9 @@
             Array.prototype.forEach.call(authorEles, element => {
                 var paperId = element.getAttribute('data');
                 var author = data['publications'][paperId]['bib']['author'].replace(/ and/gi, ","); // global, case-insensitive
-                // // highlight author
-                // var RegExp = /(Song )?Maojia( Song)?/gi;
-                // author = author.replace(RegExp, '<strong>Maojia Song</strong>')
+                // highlight author
+                var RegExp = /(Song )?Maojia( Song)?/gi;
+                author = author.replace(RegExp, '<strong>Maojia Song</strong>')
                 element.innerHTML = author;
             });
 
@@ -81,7 +81,7 @@
             Array.prototype.forEach.call(conferenceEles, element => {
                 var paperId = element.getAttribute('data');
                 var conference = data['publications'][paperId]['bib']['conference'];
-                element.innerHTML = 'this:'+conference;
+                element.innerHTML = conference;
             });
 
             // publication year
