@@ -111,6 +111,21 @@ I am curious about the construction of self-sustained AI agents, which requires 
   <span class='paper_conference' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span>  
   <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong>.
 
+- <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></a></strong>  
+  <span class='paper_author' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span>  
+  <span class='paper_conference' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span>  
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span></strong>.
+
+- <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></a></strong>  
+  <span class='paper_author' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span>  
+  <span class='paper_conference' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span>  
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span></strong>.
+
+- <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></a></strong>  
+  <span class='paper_author' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span>  
+  <span class='paper_conference' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span>  
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong>.
+
 
 
 
