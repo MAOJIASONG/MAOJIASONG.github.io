@@ -29,9 +29,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a class='scholar_url' href=''>google scholar citations <strong><span id='my_interests'><!-- autoupdate --></span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=J1cg8fIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-<a id='my_interests'> </a>
-<a id='my_interests' href=''> </a>
-<a class='scholar_url' href=''> </a>
+<a id='my_interests'> help</a>
+<a id='my_interests' href=''>help2 </a>
+<a class='scholar_url' href=''> help3</a>
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
