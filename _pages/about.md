@@ -109,22 +109,22 @@ I am curious about the construction of self-sustained AI agents, which requires 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span>  
   <span class='paper_conference' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span>  
-  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong>.
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span>  
   <span class='paper_conference' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span>  
-  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span></strong>.
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span>  
   <span class='paper_conference' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span>  
-  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span></strong>.
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span>  
   <span class='paper_conference' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span>  
-  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong>.
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 
 
@@ -132,21 +132,24 @@ I am curious about the construction of self-sustained AI agents, which requires 
 
 <!-- honers -->
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02* The 17th “Challenge Cup” National College Students Extracurricular Academic Science and Technology Works Competition – “Black Technology” Challenge First Prize (Top 1%).
+- *2021.06* U.S.-China Young Maker Contest – Winner of the U.S.-China Cooperation (Exclusive). 
+- *2021.06* U.S.-China Young Maker Contest – Second National Prize (Top 5). 
+- *2021.05* The 11th National College E-Commerce "Innovation, Creativity and Entrepreneurship" Challenge – First Provincial Prize (Top 10%).
+- `ACL 2023` test.
 
 
 
 
 
 <!-- others -->
-# 📖 Educations
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
