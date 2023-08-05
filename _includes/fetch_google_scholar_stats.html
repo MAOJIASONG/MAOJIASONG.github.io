@@ -7,8 +7,8 @@
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             // total citations
-            // var totalCitation = data['citedby']
-            // document.getElementById('total_cit').innerHTML = totalCitation;
+            var totalCitation = data['citedby']
+            document.getElementById('total_cit').innerHTML = totalCitation;
 
             // // recent 5years citations
             // var fiveyearCitation = data['citedby5y']
