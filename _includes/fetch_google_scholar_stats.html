@@ -34,6 +34,10 @@
             // var cites_per_year = data['cites_per_year']
             // document.getElementById('cites_per_year').innerHTML = cites_per_year;
 
+            // // affiliation
+            // var affiliation = data['affiliation']
+            // document.getElementById('affiliation').innerHTML = affiliation;
+
             //interests
             var my_interests = '';
             for (var i=0; i<data['interests'].length; i++) {
@@ -51,22 +55,52 @@
                 var scholar_id = data['scholar_id'];
                 element.href = "https://scholar.google.com/citations?user=" + scholar_id;
             });
+            
+            // publication title
+            var titleEles = document.getElementsByClassName('paper_title');
+            Array.prototype.forEach.call(titleEles, element => {
+                var paperId = element.getAttribute('data');
+                var title = data['publications'][paperId]['bib']['title'];
+                element.innerHTML = title;
+                element.href = 'https://scholar.google.com/citations?view_op=view_citation&citation_for_view=' + paperId; 
+            });
 
-            // publication
-            var citationEles = document.getElementsByClassName('show_paper_citations');
+            // publication author
+            var authorEles = document.getElementsByClassName('paper_author');
+            Array.prototype.forEach.call(authorEles, element => {
+                var paperId = element.getAttribute('data');
+                var author = data['publications'][paperId]['bib']['author'].replace(/ and/gi, ","); // global, case-insensitive
+                // highlight author
+                var RegExp = /(Song )?Maojia( Song)?/gi;
+                author = author.replace(RegExp, '<strong>Maojia Song</strong>')
+                element.innerHTML = author;
+            });
+
+            // publication conference
+            var conferenceEles = document.getElementsByClassName('paper_conference');
+            Array.prototype.forEach.call(conferenceEles, element => {
+                var paperId = element.getAttribute('data');
+                var conference = data['publications'][paperId]['bib']['conference'];
+                element.innerHTML = conference;
+            });
+
+            // publication year
+            var yearEles = document.getElementsByClassName('paper_year');
+            Array.prototype.forEach.call(yearEles, element => {
+                var paperId = element.getAttribute('data');
+                var pub_year = data['publications'][paperId]['bib']['pub_year'];
+                element.innerHTML = '| Year: ' + pub_year;
+            });
+
+            // publication citation
+            var citationEles = document.getElementsByClassName('paper_citations');
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data');
                 var numCitations = data['publications'][paperId]['num_citations'];
                 element.innerHTML = '| Citations: ' + numCitations;
             });
 
-
-            var yearEles = document.getElementsByClassName('show_paper_year');
-            Array.prototype.forEach.call(yearEles, element => {
-                var paperId = element.getAttribute('data');
-                var pub_year = data['publications'][paperId]['bib']['pub_year'];
-                element.innerHTML = '| Year: ' + pub_year;
-            });
+            
         });
     })
 </script>
