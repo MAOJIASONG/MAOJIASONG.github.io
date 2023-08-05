@@ -8,7 +8,7 @@
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             // total citations
             var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = data['interests'].length;
+            document.getElementById('total_cit').innerHTML = totalCitation;
 
             // // recent 5years citations
             // var fiveyearCitation = data['citedby5y']
@@ -35,12 +35,12 @@
             // document.getElementById('cites_per_year').innerHTML = cites_per_year;
 
             // interests
-            var interests = ''
+            var my_interests = ''
             for (var i=0; i<data['interests'].length; i++) {
-                interests += data['interests'][i] + ', '
+                my_interests += data['interests'][i] + ', '
             }
-            document.getElementById('interests').innerHTML = data['interests']
-            document.getElementById('interests').href="https://www.runoob.com";
+            document.getElementById('my_interests').innerHTML = my_interests
+            document.getElementById('my_interests').href="https://www.runoob.com";
 
             // scholar_url
             var scholar_url = document.getElementsByClassName('scholar_url')
