@@ -39,8 +39,10 @@
             for (var i=0; i<data['interests'].length; i++) {
                 my_interests += data['interests'][i] + ', '
             }
-            document.getElementById('my_interests').innerHTML = my_interests
-            document.getElementById('my_interests').href="https://www.runoob.com";
+            Array.prototype.forEach.call(document.getElementById('my_interests'), element => {
+                element.innerHTML = my_interests
+                element.href="https://www.runoob.com";
+            });
 
             // scholar_url
             var scholar_url = document.getElementsByClassName('scholar_url')
