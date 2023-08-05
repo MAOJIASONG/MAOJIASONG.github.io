@@ -53,7 +53,7 @@
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
+                var numCitations = data['publications'][paperId]['num_citations'].toString()
                 element.innerHTML = '| Citations: ' + numCitations;
             });
 
@@ -61,7 +61,7 @@
             var yearEles = document.getElementsByClassName('show_paper_year')
             Array.prototype.forEach.call(yearEles, element => {
                 var paperId = element.getAttribute('data')
-                var pub_year = data['publications'][paperId]['bib']['pub_year']
+                var pub_year = data['publications'][paperId]['bib']['pub_year'].toString()
                 element.innerHTML = '| Year: ' + pub_year;
             });
         });
