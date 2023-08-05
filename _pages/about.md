@@ -42,7 +42,7 @@ Hello! Welcome to my homepage.
 I am curious about the construction of self-sustained AI agents, which requires many prevailing technologies, including Large language models, Human-in-the-loop, the world model, and even adaptive intelligence. The idea can be simply explained: self-sustaining AI should learn by himself from the environment constantly and is able to rebuild other related constitutes from the provided abstract representations of the same identity. It forces self-sustained AI to adaptively face the world, rather than only finding a one-fits-all solution. The foundation of its external performance should rely on the understanding of abstract representations to transform the real world into a digital world. Based on the previous development, the agents of an applicable system can thereby help this basic self-sustained AI to achieve embodied interaction with humans.
 
 <!-- education background -->
-I am graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='./images/UoL.svg' style="width: 4em;">. 
+I am graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='./images/UoL.png' style="width: 4em;">. 
 
 <!-- experience -->
 
@@ -84,7 +84,7 @@ This is a test for tags:
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-<!-- - <span style="color:red">(Oral)</span> `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, Jinzheng He, Rongjie Huang, Jieming Zhu, Xiao Chen, Zhou Zhao, *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)   -->
+<!-- - <span style="color:red;">(Oral)</span> `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, Jinzheng He, Rongjie Huang, Jieming Zhu, Xiao Chen, Zhou Zhao, *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)   -->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
