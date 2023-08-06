@@ -46,21 +46,21 @@ redirect_from:
 Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/) and focus on [undefined]. ***Want academic cooperation?*** Feel free to contact me at [unknown](mailto:smj812855@163.com).
 
 <!-- education background -->
-I am graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a bachelor's degree. <!-- other collaboration -->
+I graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a bachelor's degree. <!-- other collaboration -->
 
 <!-- Interests -->
 My research interest includes <strong><span id='my_interests'><!-- autoupdate --></span></strong>. I have published some related papers <a class='scholar_url' href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 <!-- at the top international AI conferences. -->
 
 <!-- experience -->
-I have conducted many projects related to deep learning, including:
+I have participated in many projects related to deep learning, including:
 
+- **Research internship in Deep Reinforcement Learning, and Image Segmentation at the University of Cambridge**.
+- **Artificial Intelligence Internship Programme in NTU Business AI Lab**.
 - **Brain-controlled multifunctional rolling robot based on OpenBCI-AR and "Disk" system**.
 - **Fault detection of high-speed subway sleepers based on images and deep learning algorithms**.
 - **Intelligent inspection of key equipment in substations based on edged deep learning**.
 - **Fault diagnosis of Oil-immersed transformers based on DGA (dissolved gas analysis)**.
-- **Research internship in Deep Reinforcement Learning, and Image Segmentation at the University of Cambridge**.
-- **Artificial Intelligence Internship Programme in NTU Business AI Lab**.
 - **Production and practice of self-navigable buggy based on ROS, SLAM, and Object Detection**.
 - **The research of Self-organised critical phase transformation of historical time sequences of power system based on Critical slowing down theory**.
 
