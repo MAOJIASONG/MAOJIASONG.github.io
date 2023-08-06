@@ -48,6 +48,10 @@ Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria]
 <!-- education background -->
 I am graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a bachelor's degree. <!-- other collaboration -->
 
+<!-- Interests -->
+My research interest includes <strong><span id='my_interests'><!-- autoupdate --></span></strong>. I have published some related papers <a class='scholar_url' href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+<!-- at the top international AI conferences. -->
+
 <!-- experience -->
 I have conducted many projects related to deep learning, including:
 
@@ -60,17 +64,16 @@ I have conducted many projects related to deep learning, including:
 - **Production and practice of self-navigable buggy based on ROS, SLAM, and Object Detection**.
 - **The research of Self-organised critical phase transformation of historical time sequences of power system based on Critical slowing down theory**.
 
-For more detailes, Please see my [CV](../files/CV.pdf).
+For more details, Please see my [CV](../files/CV.pdf).
 
 <!-- Awards -->
 
 
-<!-- Interests -->
-My research interest includes <strong><span id='my_interests'><!-- autoupdate --></span></strong>. I have published some related papers <a class='scholar_url' href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
-<!-- at the top international AI conferences. -->
+
+
 
 # 🌠 My Wish
-I am curious about the construction of self-sustained AI agents, which requires many prevailing technologies, including Large language models, Human-in-the-loop, the world model, and even adaptive intelligence. The idea can be simply explained: self-sustaining AI should learn by himself from the environment constantly and is able to rebuild other related constitutes from the provided abstract representations of the same identity. It forces self-sustained AI to adaptively face the world, rather than only finding a one-fits-all solution. The foundation of its external performance should rely on the understanding of abstract representations to transform the real world into a digital world. Based on the previous development, the agents of an applicable system can thereby help this basic self-sustained AI to achieve embodied interaction with humans.
+I am curious about the construction of **self-sustained AI agents**, which requires many prevailing technologies, including Large language models, Human-in-the-loop, the world model, and even adaptive intelligence. The idea can be simply explained: self-sustaining AI should learn by himself from the environment constantly and is able to rebuild other related constitutes from the provided abstract representations of the same identity. It forces self-sustained AI to adaptively face the world, rather than only finding a one-fits-all solution. The foundation of its external performance should rely on the understanding of abstract representations to transform the real world into a digital world. Based on the former abilities, the agents of an applicable system can thereby help this underlying self-sustained AI to achieve embodied interaction with human.
 
 
 
@@ -137,7 +140,7 @@ I am curious about the construction of self-sustained AI agents, which requires 
 - *2021.06*: U.S.-China Young Maker Contest – Winner of the U.S.-China Cooperation (Exclusive). 
 - *2021.06*: U.S.-China Young Maker Contest – Second National Prize (Top 5). 
 - *2021.05*: The 11th National College E-Commerce "Innovation, Creativity and Entrepreneurship" Challenge – First Provincial Prize (Top 10%).
-- `ACL 2023` test.
+<!-- - `ACL 2023` test. -->
 
 
 
