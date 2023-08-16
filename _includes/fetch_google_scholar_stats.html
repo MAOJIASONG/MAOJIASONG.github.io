@@ -81,6 +81,9 @@
             Array.prototype.forEach.call(conferenceEles, element => {
                 var paperId = element.getAttribute('data');
                 var conference = data['publications'][paperId]['bib']['conference'];
+                if (!conference ) {
+                    conference = "Preprint Version"
+                }
                 element.innerHTML = conference;
             });
 
