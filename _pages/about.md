@@ -43,10 +43,13 @@ redirect_from:
 
 <!-- Intro -->
 <!-- self introduction -->
-Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/) and focus on [undefined]. ***Want academic cooperation?*** Feel free to contact me at [unknown](mailto:smj812855@163.com).
+Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/) and focus on grounded QA with LLM. ***Want academic cooperation?*** Feel free to contact me at [maojia_song@sutd.edu.sg](mailto:maojia_song@sutd.edu.sg).
 
 <!-- education background -->
-I graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a bachelor's degree. <!-- other collaboration -->
+I graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a bachelor's degree. 
+
+<!-- other collaboration -->
+
 
 <!-- Interests -->
 My research interest includes <strong><span id='my_interests'><!-- autoupdate --></span></strong>. I have published some related papers <a class='scholar_url' href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
@@ -73,7 +76,8 @@ For more details, Please see my [CV](../files/CV.pdf).
 
 
 # 🌠 My Wish
-I am curious about the construction of **self-sustained AI agents**, which requires many prevailing technologies, including Large language models, Human-in-the-loop, the world model, and even adaptive intelligence. The idea can be simply explained: self-sustaining AI should learn by himself from the environment constantly and is able to rebuild other related constitutes from the provided abstract representations of the same identity. It forces self-sustained AI to adaptively face the world, rather than only finding a one-fits-all solution. The foundation of its external performance should rely on the understanding of abstract representations to transform the real world into a digital world. Based on the former abilities, the agents of an applicable system can thereby help this underlying self-sustained AI to achieve embodied interaction with human.
+
+<p align="left"><p align="right">I am curious about the construction of **self-sustained AI agents**, which requires many prevailing technologies, including Large language models, Human-in-the-loop, the world model, and even adaptive intelligence. The idea can be simply explained: self-sustaining AI should learn by himself from the environment constantly and is able to rebuild other related constitutes from the provided abstract representations of the same identity. It forces self-sustained AI to adaptively face the world, rather than only finding a one-fits-all solution. The foundation of its external performance should rely on the understanding of abstract representations to transform the real world into a digital world. Based on the former abilities, the agents of an applicable system can thereby help this underlying self-sustained AI to achieve embodied interaction with human.</p></p>
 
 
 
