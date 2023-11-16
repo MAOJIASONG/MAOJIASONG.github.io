@@ -46,7 +46,7 @@ redirect_from:
 Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/) and focus on grounded QA with LLM. ***Want academic cooperation?*** Feel free to contact me at [maojia_song@sutd.edu.sg](mailto:maojia_song@sutd.edu.sg).
 
 <!-- education background -->
-I graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a bachelor's degree. 
+I graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a bachelor's degree.
 
 <!-- other collaboration -->
 
@@ -77,7 +77,7 @@ For more details, Please see my [CV](../files/CV.pdf).
 
 # 🌠 My Wish
 
-<div style="text-align: justify"> I am curious about the construction of **self-sustained AI agents**, which requires many prevailing technologies, including Large language models, Human-in-the-loop, the world model, and even adaptive intelligence. The idea can be simply explained: self-sustaining AI should learn by himself from the environment constantly and is able to rebuild other related constitutes from the provided abstract representations of the same identity. It forces self-sustained AI to adaptively face the world, rather than only finding a one-fits-all solution. The foundation of its external performance should rely on the understanding of abstract representations to transform the real world into a digital world. Based on the former abilities, the agents of an applicable system can thereby help this underlying self-sustained AI to achieve embodied interaction with human.</div>
+<div style="text-align: justify"> I am curious about the construction of <b>self-sustained AI agents</b>, which requires many prevailing technologies, including Large language models, Human-in-the-loop, the world model, and even adaptive intelligence. The idea can be simply explained: self-sustaining AI should learn by himself from the environment constantly and is able to rebuild other related constitutes from the provided abstract representations of the same identity. It forces self-sustained AI to adaptively face the world, rather than only finding a one-fits-all solution. The foundation of its external performance should rely on the understanding of abstract representations to transform the real world into a digital world. Based on the former abilities, the agents of an applicable system can thereby help this underlying self-sustained AI to achieve embodied interaction with human.</div>
 
 
 
