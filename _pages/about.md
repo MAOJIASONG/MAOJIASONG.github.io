@@ -43,10 +43,10 @@ redirect_from:
 
 <!-- Intro -->
 <!-- self introduction -->
-Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/) and focus on grounded QA with LLM. ***Want academic cooperation?*** Feel free to contact me at [maojia_song@sutd.edu.sg](mailto:maojia_song@sutd.edu.sg).
+Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/) and focus on grounded QA with LLM. ***Want academic cooperation?*** Feel free to contact me at [maojia_song@sutd.edu.sg](mailto:maojia_song@mymail.sutd.edu.sg).
 
 <!-- education background -->
-I graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a bachelor's degree.
+I graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a First Class Honours degree.
 
 <!-- other collaboration -->
 
