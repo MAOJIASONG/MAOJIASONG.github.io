@@ -83,8 +83,8 @@
                 var conference = data['publications'][paperId]['bib']['conference'];
                 var journal = data['publications'][paperId]['bib']['journal'];
                 // Prioritize journal over conference, and use "Preprint Version" as a fallback
-                var displayText = journal || conference || "Preprint Version";
-                element.innerHTML = conference;
+                var venue = journal || conference || "Preprint Version";
+                element.innerHTML = venue;
             });
 
             // publication year
