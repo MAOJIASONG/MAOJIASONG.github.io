@@ -77,13 +77,13 @@
             });
 
             // publication conference
-            var conferenceEles = document.getElementsByClassName('paper_conference');
+            var conferenceEles = document.getElementsByClassName('paper_venue');
             Array.prototype.forEach.call(conferenceEles, element => {
                 var paperId = element.getAttribute('data');
                 var conference = data['publications'][paperId]['bib']['conference'];
-                if (!conference ) {
-                    conference = "Preprint Version"
-                }
+                var journal = data['publications'][paperId]['bib']['journal'];
+                // Prioritize journal over conference, and use "Preprint Version" as a fallback
+                var displayText = journal || conference || "Preprint Version";
                 element.innerHTML = conference;
             });
 

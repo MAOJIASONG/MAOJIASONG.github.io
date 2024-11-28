@@ -30,7 +30,7 @@ redirect_from:
   <a class='scholar_url' href=''> autoupdate </span>
   <a class='paper_title' href='' data='DhtAFkwAAAAJ:ALROH1vI_8AC(paper_id)'></a>
   <span class='paper_author' data='DhtAFkwAAAAJ:ALROH1vI_8AC(paper_id)'></span>
-  <span class='paper_conference' data='DhtAFkwAAAAJ:ALROH1vI_8AC(paper_id)'></span>
+  <span class='paper_venue' data='DhtAFkwAAAAJ:ALROH1vI_8AC(paper_id)'></span>
   <span class='paper_year' data='DhtAFkwAAAAJ:ALROH1vI_8AC(paper_id)'></span>
   <span class='paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC(paper_id)'></span>
  -->
@@ -118,32 +118,32 @@ For more details, Please see my [CV](../files/CV.pdf).
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span>  
-  <span class='paper_conference' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span>  
   <strong><span class='paper_citations' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></span>  
-  <span class='paper_conference' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></span>  
   <strong><span class='paper_citations' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></span></strong>
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span>  
-  <span class='paper_conference' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span>  
   <strong><span class='paper_citations' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span>  
-  <span class='paper_conference' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span>  
   <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span>  
-  <span class='paper_conference' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span>  
   <strong><span class='paper_citations' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span>  
-  <span class='paper_conference' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span>  
   <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 
