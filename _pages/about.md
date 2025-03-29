@@ -86,7 +86,7 @@ For more details, Please see my [CV](../files/CV.pdf).
 <!-- News -->
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-*2025.02*: &nbsp;😎 I'll be presenting an oral talk on [Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](https://arxiv.org/abs/2409.11242) at ICLR 2025.
+*2025.02*: &nbsp;😎 I'll be presenting an oral talk on [Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](https://iclr.cc/virtual/2025/oral/31873) at ICLR 2025.
 
 *2024.09*: &nbsp;🎉🎉 We release [Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](https://arxiv.org/abs/2409.11242). A holistic evaluation of the groundness of LLMs in a RAG framework, and the Trust-Align framework that aligns LLMs for higher Trust-Score.
 
