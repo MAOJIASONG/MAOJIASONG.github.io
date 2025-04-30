@@ -38,12 +38,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-
-
-
 <!-- Intro -->
 <!-- self introduction -->
-Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/) and focus on grounded QA with LLM. ***Want academic cooperation?*** Feel free to contact me at [maojia_song@mymail.sutd.edu.sg](mailto:maojia_song@mymail.sutd.edu.sg).
+Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/) and focus on grounded QA with Agentic LLM. ***Want academic cooperation?*** Feel free to contact me at [maojia_song@mymail.sutd.edu.sg](mailto:maojia_song@mymail.sutd.edu.sg).
 
 <!-- education background -->
 I graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a First Class Honours degree.
@@ -52,7 +49,7 @@ I graduated from [School of Electronic and Electrical Engineering](https://eps.l
 
 
 <!-- Interests -->
-My research interest includes <strong><span id='my_interests'><!-- autoupdate --></span></strong>. My published papers can be found here <a class='scholar_url' href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+My research interest includes <strong><span id='my_interests'><!-- autoupdate --></span></strong>. My published papers can be found here <a class='scholar_url' href=''><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 <!-- at the top international AI conferences. -->
 
 <!-- experience -->
@@ -117,6 +114,11 @@ For more details, Please see my [CV](../files/CV.pdf).
 </div> -->
 
 <!-- - <span style="color:red;">(Oral)</span> `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, Jinzheng He, Rongjie Huang, Jieming Zhu, Xiao Chen, Zhou Zhao, *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)   -->
+
+- <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></a></strong>  
+  <span class='paper_author' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></span>  
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span>  
