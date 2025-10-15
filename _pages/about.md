@@ -40,7 +40,7 @@ redirect_from:
 
 <!-- Intro -->
 <!-- self introduction -->
-Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://sporia.info/) and focus on grounded QA with Agentic LLM. ***Want academic cooperation?*** Feel free to contact me at [maojia_song@mymail.sutd.edu.sg](mailto:maojia_song@mymail.sutd.edu.sg).
+Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://soujanyaporia.github.io/) and focus on grounded QA with Agentic LLM. ***Want academic cooperation?*** Feel free to contact me at [maojia_song@mymail.sutd.edu.sg](mailto:maojia_song@mymail.sutd.edu.sg).
 
 <!-- education background -->
 I graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a First Class Honours degree.
@@ -83,6 +83,10 @@ For more details, Please see my [CV](../files/CV.pdf).
 <!-- News -->
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+*2025.10*: &nbsp;🔍 Embarked on an exciting journey to uncover the driving mysteries behind deep agentic search! Dive into our latest work: [Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics](https://arxiv.org/abs/2510.05137).
+
+*2025.09*: &nbsp;🚀 Thrilled to unveil our groundbreaking paradigm for agent pre-training: [Scaling Agents via Continual Pre-training](https://arxiv.org/abs/2509.13310).
+
 *2025.02*: &nbsp;😎 I'll be presenting an oral talk on [Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](https://iclr.cc/virtual/2025/oral/31873) at ICLR 2025.
 
 *2024.09*: &nbsp;🎉🎉 We release [Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse](https://arxiv.org/abs/2409.11242). A holistic evaluation of the groundness of LLMs in a RAG framework, and the Trust-Align framework that aligns LLMs for higher Trust-Score.
@@ -93,7 +97,7 @@ For more details, Please see my [CV](../files/CV.pdf).
 
 
 <!-- Pub -->
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <!-- <div class='paper-box'>
   <div class='paper-box-image'>
@@ -115,7 +119,27 @@ For more details, Please see my [CV](../files/CV.pdf).
 
 <!-- - <span style="color:red;">(Oral)</span> `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, Jinzheng He, Rongjie Huang, Jieming Zhu, Xiao Chen, Zhou Zhao, *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)   -->
 
-- <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></a></strong>  
+- <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:YsMSGLbcyi4C'></a></strong>  
+  <span class='paper_author' data='J1cg8fIAAAAJ:YsMSGLbcyi4C'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:YsMSGLbcyi4C'></span>  
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:YsMSGLbcyi4C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:YsMSGLbcyi4'></span></strong>
+
+- <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:Y0pCki6q_DkC'></a></strong>  
+  <span class='paper_author' data='J1cg8fIAAAAJ:Y0pCki6q_DkC'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:Y0pCki6q_DkC'></span>  
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:Y0pCki6q_DkC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:Y0pCki6q_DkC'></span></strong>
+
+- <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:W7OEmFMy1HYC'></a></strong>  
+  <span class='paper_author' data='J1cg8fIAAAAJ:W7OEmFMy1HYC'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:W7OEmFMy1HYC'></span>  
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:W7OEmFMy1HYC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:W7OEmFMy1HYC'></span></strong>
+
+- <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:Tyk-4Ss8FVUC'></a></strong>  
+  <span class='paper_author' data='J1cg8fIAAAAJ:Tyk-4Ss8FVUC'></span>  
+  <span class='paper_venue' data='J1cg8fIAAAAJ:Tyk-4Ss8FVUC'></span>  
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:Tyk-4Ss8FVUC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+
+<!-- - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></span>  
   <span class='paper_venue' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></span>  
   <strong><span class='paper_citations' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:UeHWp8X0CEIC'></span></strong>
@@ -123,14 +147,14 @@ For more details, Please see my [CV](../files/CV.pdf).
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span>  
   <span class='paper_venue' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span>  
-  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span></strong>
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:qjMakFHDy7sC'></span></strong> -->
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></span>  
   <span class='paper_venue' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></span>  
   <strong><span class='paper_citations' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:2osOgNQ5qMEC'></span></strong>
 
-- <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></a></strong>  
+<!-- - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span>  
   <span class='paper_venue' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span>  
   <strong><span class='paper_citations' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:d1gkVwhDpl0C'></span></strong>
@@ -148,18 +172,18 @@ For more details, Please see my [CV](../files/CV.pdf).
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span>  
   <span class='paper_venue' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span>  
-  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong>
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:u5HHmVD_uO8C'></span></strong> -->
 
 
 
 
 
 <!-- honers -->
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2022.02*: The 17th “Challenge Cup” National College Students Extracurricular Academic Science and Technology Works Competition – “Black Technology” Challenge First Prize (Top 1%).
 - *2021.06*: U.S.-China Young Maker Contest – Winner of the U.S.-China Cooperation (Exclusive). 
 - *2021.06*: U.S.-China Young Maker Contest – Second National Prize (Top 5). 
-- *2021.05*: The 11th National College E-Commerce "Innovation, Creativity and Entrepreneurship" Challenge – First Provincial Prize (Top 10%).
+- *2021.05*: The 11th National College E-Commerce "Innovation, Creativity and Entrepreneurship" Challenge – First Provincial Prize (Top 10%). -->
 <!-- - `ACL 2023` test. -->
 
 
