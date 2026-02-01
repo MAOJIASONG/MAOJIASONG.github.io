@@ -124,7 +124,7 @@ For more details, Please see my [CV](../files/CV.pdf).
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:UebtZRa9Y70C'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:UebtZRa9Y70C'></span>  
   <span class='paper_venue' data='J1cg8fIAAAAJ:UebtZRa9Y70C'></span>  
-  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:UebtZRa9Y70C'></span></strong> <strong><span class='paper_year' data='J1cg8fIAAAAJ:UebtZRa9Y70C'></span></strong>
+  <strong><span class='paper_citations' data='J1cg8fIAAAAJ:UebtZRa9Y70C'></span></strong><strong><span class='paper_year' data='J1cg8fIAAAAJ:UebtZRa9Y70C'></span></strong>
 
 - <strong><a class='paper_title' href='' data='J1cg8fIAAAAJ:Y0pCki6q_DkC'></a></strong>  
   <span class='paper_author' data='J1cg8fIAAAAJ:Y0pCki6q_DkC'></span>  
