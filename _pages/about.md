@@ -83,6 +83,8 @@ For more details, Please see my [CV](../files/CV.pdf).
 <!-- News -->
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+*2026.01*: &nbsp;🤞 We got four papers accepted at ICLR 2026.
+
 *2025.10*: &nbsp;🔍 Embarked on an exciting journey to uncover the driving mysteries behind deep agentic search! Dive into our latest work: [Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics](https://arxiv.org/abs/2510.05137).
 
 *2025.09*: &nbsp;🚀 Thrilled to unveil our groundbreaking paradigm for agent pre-training: [Scaling Agents via Continual Pre-training](https://arxiv.org/abs/2509.13310).
