@@ -17,9 +17,9 @@ except MaxTriesExceededException as e:
 else:
     print("正在填充作者详细信息...")
     scholarly.fill(author, sections=["basics", "indices", "counts", "publications"])
-    name = author["name"]
+    # name = author["name"]
     author["updated"] = str(datetime.now())
-    author["publications"] = {v["author_pub_id"]: v for v in author["publications"]}
+    author['publications'] = {v['author_pub_id']:scholarly.fill(v) for v in author['publications']}
     print(json.dumps(author, indent=2))
 
     print("正在创建结果目录...")
