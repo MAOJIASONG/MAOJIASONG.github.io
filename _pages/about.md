@@ -86,7 +86,7 @@ For more details, Please see my [CV](../files/CV.pdf).
 
 *2026.06*: &nbsp;👾 We open-source [Nodikt](https://github.com/MAOJIASONG/Nodikt), The Operating System for Human Intent. Definition by Human. Execution by Protocol. Manifestation by AI.
 
-*2026.05*: &nbsp;🌐 AI agents are gradually becoming social infrastructure, and the bottleneck is shifting from model capability to 'collaboration' itself. We introduce **Foundation Protocol (FP)**! As a key project of the Foundation Agents open-source community, we designed a graph-first collaboration layer featuring unified heterogeneous entities, native multi-party collaboration, built-in metering and settlement, and security-first policies. [[ArXiv]](https://arxiv.org/abs/2605.23218) | [[HF Papers]](https://huggingface.co/papers/2605.23218) | [[GitHub]](https://github.com/FoundationAgents/foundation-protocol)
+*2026.05*: &nbsp;🌐 AI agents are gradually becoming social infrastructure, and the bottleneck is shifting from model capability to 'collaboration' itself. We introduce **Foundation Protocol (FP)**! As a key project of the Foundation Agents open-source community, we designed a graph-first collaboration layer featuring unified heterogeneous entities, native multi-party collaboration, built-in metering and settlement, and security-first policies. [[ArXiv]](https://arxiv.org/abs/2605.23218) \| [[HF&nbsp;Papers]](https://huggingface.co/papers/2605.23218) \| [[GitHub]](https://github.com/FoundationAgents/foundation-protocol)
 
 *2026.04*: &nbsp;😁 One paper got accepted at ICML 2026.
 

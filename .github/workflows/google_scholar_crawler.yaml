@@ -29,5 +29,6 @@ jobs:
         else
           echo "results directory does not exist, skipping commit and push"
         fi
-      env: 
+      env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
