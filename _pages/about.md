@@ -83,6 +83,13 @@ For more details, Please see my [CV](../files/CV.pdf).
 <!-- News -->
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+*2026.06*: &nbsp;👾 We open-source [Nodikt](https://github.com/MAOJIASONG/Nodikt), The Operating System for Human Intent. Definition by Human. Execution by Protocol. Manifestation by AI.
+
+*2026.05*: &nbsp;🌐 AI agents are gradually becoming social infrastructure, and the bottleneck is shifting from model capability to 'collaboration' itself. We introduce **Foundation Protocol (FP)**! As a key project of the Foundation Agents open-source community, we designed a graph-first collaboration layer featuring unified heterogeneous entities, native multi-party collaboration, built-in metering and settlement, and security-first policies. [[ArXiv]](https://arxiv.org/abs/2605.23218) | [[HF Papers]](https://huggingface.co/papers/2605.23218) | [[GitHub]](https://github.com/FoundationAgents/foundation-protocol)
+
+*2026.04*: &nbsp;😁 One paper got accepted at ICML 2026.
+
 *2026.01*: &nbsp;🤞 We got four papers accepted at ICLR 2026.
 
 *2025.10*: &nbsp;🔍 Embarked on an exciting journey to uncover the driving mysteries behind deep agentic search! Dive into our latest work: [Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics](https://arxiv.org/abs/2510.05137).
