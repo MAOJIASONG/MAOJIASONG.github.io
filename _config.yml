@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Maojia Song"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "DeClaRe Lab @SUTD"  # Describe your org
+  bio              : "DeClaRe Lab @SUTD|NTU"  # Describe your org
   location         : "Singapore"
   employer         : # e.g., Bytedance AI Lab
   pubmed           : 

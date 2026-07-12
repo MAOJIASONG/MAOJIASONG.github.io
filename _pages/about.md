@@ -40,7 +40,7 @@ redirect_from:
 
 <!-- Intro -->
 <!-- self introduction -->
-Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://soujanyaporia.github.io/) and focus on grounded QA with Agentic LLM. ***Want academic cooperation?*** Feel free to contact me at [maojia_song@mymail.sutd.edu.sg](mailto:maojia_song@mymail.sutd.edu.sg).
+Hello! Welcome to my homepage. Currently, I am advised by Prof. [Soujanya Poria](https://soujanyaporia.github.io/) and focus on Agentic AI. ***Want academic cooperation?*** Feel free to contact me at [maojia_song@mymail.sutd.edu.sg](mailto:maojia_song@mymail.sutd.edu.sg).
 
 <!-- education background -->
 I graduated from [School of Electronic and Electrical Engineering](https://eps.leeds.ac.uk/electronic-engineering) @University of Leeds <img src='../images/UoL.png' style="width: 5em;"> with a First Class Honours degree.
@@ -70,12 +70,9 @@ For more details, Please see my [CV](../files/CV.pdf).
 
 
 
-
-
 # 🌠 My Wish
 
-<div style="text-align: justify"> I am curious about the construction of <b>self-sustained AI agents</b>, which requires many prevailing technologies, including Large language models, Human-in-the-loop, the world model, and even adaptive intelligence. The idea can be simply explained: self-sustaining AI should learn by himself from the environment constantly and is able to rebuild other related constitutes from the provided abstract representations of the same identity. It forces self-sustained AI to adaptively face the world, rather than only finding a one-fits-all solution. The foundation of its external performance should rely on the understanding of abstract representations to transform the real world into a digital world. Based on the former abilities, the agents of an applicable system can thereby help this underlying self-sustained AI to achieve embodied interaction with human.</div>
-
+<div style="text-align: justify"> I am curious about the construction of <b>self-sustained AI agents</b>, which requires many prevailing technologies, including Large language models, Human-in-the-loop, the world model, and even adaptive intelligence. The idea can be simply explained: self-sustaining AI should learn by himself from the environment constantly and is able to rebuild other related constitutes from the provided abstract representations of the same identity. It forces self-sustained AI to adaptively face the world, rather than only finding a one-fits-all solution. The foundation of its external performance should rely on the construction of such environments to transform the real world into a digital world. Based on these foudational abilities, an applicable system of agents can thereby help this underlying self-sustained AI to achieve embodied interaction with human.</div>
 
 
 
@@ -83,6 +80,9 @@ For more details, Please see my [CV](../files/CV.pdf).
 <!-- News -->
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+
+*2026.07*: &nbsp;🔬 Can agents learn while they work? We release **EdgeBench** — 134 real-world, day-scale tasks (12–72h+ each) that measure how agents improve from environment feedback powered by the two-container **SForge** harness, revealing a log-sigmoid scaling law of learning from real-world environments (R²=0.998). [[Blog]](https://seed.bytedance.com/en/edgebench)
 
 *2026.06*: &nbsp;👾 We open-source [Nodikt](https://github.com/MAOJIASONG/Nodikt), The Operating System for Human Intent. Definition by Human. Execution by Protocol. Manifestation by AI.
 
