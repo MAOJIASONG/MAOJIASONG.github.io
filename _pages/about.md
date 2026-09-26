@@ -80,7 +80,7 @@ For more details, Please see my [CV](../files/CV.pdf).
 <!-- News -->
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+*2026.09*: &nbsp;🎉 We have 3 papers accepted at NeurIPS 2026.
 
 *2026.07*: &nbsp;🔬 Can agents learn while they work? We release **EdgeBench** — 134 real-world, day-scale tasks (12–72h+ each) that measure how agents improve from environment feedback powered by the two-container **SForge** harness, revealing a log-sigmoid scaling law of learning from real-world environments (R²=0.998). [[Blog]](https://seed.bytedance.com/en/edgebench)
 
@@ -88,9 +88,9 @@ For more details, Please see my [CV](../files/CV.pdf).
 
 *2026.05*: &nbsp;🌐 AI agents are gradually becoming social infrastructure, and the bottleneck is shifting from model capability to 'collaboration' itself. We introduce **Foundation Protocol (FP)**! As a key project of the Foundation Agents open-source community, we designed a graph-first collaboration layer featuring unified heterogeneous entities, native multi-party collaboration, built-in metering and settlement, and security-first policies. [[ArXiv]](https://arxiv.org/abs/2605.23218) \| [[HF&nbsp;Papers]](https://huggingface.co/papers/2605.23218) \| [[GitHub]](https://github.com/FoundationAgents/foundation-protocol)
 
-*2026.04*: &nbsp;😁 One paper got accepted at ICML 2026.
+*2026.04*: &nbsp;😁 One paper get accepted at ICML 2026.
 
-*2026.01*: &nbsp;🤞 We got four papers accepted at ICLR 2026.
+*2026.01*: &nbsp;🤞 We get 4 papers accepted at ICLR 2026.
 
 *2025.10*: &nbsp;🔍 Embarked on an exciting journey to uncover the driving mysteries behind deep agentic search! Dive into our latest work: [Demystifying deep search: a holistic evaluation with hint-free multi-hop questions and factorised metrics](https://arxiv.org/abs/2510.05137).
 
